@@ -1,0 +1,14 @@
+.messages {
+    position: absolute;
+    bottom: 5px;
+}
+
+.errors {
+    background-color: #f7c9ce;
+
+}
+
+.success {
+    background-color: #6cbf6f;
+
+}
